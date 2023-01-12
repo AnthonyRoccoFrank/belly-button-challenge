@@ -36,3 +36,13 @@ The dataset reveals that a small handful of microbial species (also called opera
  * Use otu_ids for the marker colors.
  * Use otu_labels for the text values.
 <p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m14/lms/img/bubble_chart.jpg" alt="Bubble Chart" tabindex="0" role="button" aria-label="Bubble Chart. Click to Enlarge."></p>
+
+4. Display the sample metadata, i.e., an individual's demographic information.
+
+5. Display each key-value pair from the metadata JSON object somewhere on the page.
+<p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m14/lms/img/hw03.jpg" alt="hw" tabindex="0" role="button" aria-label="hw. Click to Enlarge."></p>
+
+6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
+<p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m14/lms/img/hw02.jpg" alt="hw" tabindex="0" role="button" aria-label="hw. Click to Enlarge."></p>
+
+7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
